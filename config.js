@@ -7,7 +7,7 @@ global.owner = [
   ['6285878836361'],
   ['6285877733239'],
   ['6285877733239', '.', true],
-  ['6285877733239', 'santzx vpnstore', true]
+  ['6287735569812', 'santzx vpnstore', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
