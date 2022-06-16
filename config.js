@@ -5,9 +5,9 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['6285878836361'],
-  ['6285878836361'],
-  ['6285878836361', 'ikystore', true],
-  ['6283817161861', 'rizki', true]
+  ['6285877733239'],
+  ['6285877733239', '.', true],
+  ['62885877733239', 'santzx vpnstore', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -35,11 +35,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ikybot あ⁩ 」' //Main Watermark
+global.wm = '                「 santzxvpnstore あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - ikybot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - santzxvpnstore˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ikybot '
+global.wm3 = '⫹⫺ santzxvpnstore '
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
